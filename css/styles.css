@@ -673,6 +673,7 @@ footer {
   height: 4px;
   position: absolute;
   background-color: var(--accent-color);
+  border-radius: 2px;
   left: 0;
   bottom: -32px;
 }
